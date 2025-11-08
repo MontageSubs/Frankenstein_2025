@@ -15,7 +15,7 @@ Style: Eng,Microsoft YaHei,9,&H00FFFFFF,&HF0000000,&H00202020,&H32000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.51,0:00:08.87,Default,,0,0,0,,（网飞公司）
+Dialogue: 0,0:00:07.51,0:00:08.87,Default,,0,0,0,,{\an2}（网飞公司）
 Dialogue: 0,0:00:13.29,0:00:17.66,Default,,0,0,0,,{\an8}制作公司\N双重挑战公司
 Dialogue: 0,0:00:20.20,0:00:25.25,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（序幕）
 Dialogue: 0,0:00:32.25,0:00:37.75,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（极北之地 1857年）
@@ -1587,7 +1587,8 @@ Dialogue: 0,2:23:24.28,2:23:27.39,Default,,0,0,0,,{\an8}主演\N拉尔斯·米�
 Dialogue: 0,2:23:28.94,2:23:32.07,Default,,0,0,0,,{\an8}主演\N克利斯汀·康佛瑞 饰 幼年维克多
 Dialogue: 0,2:23:33.49,2:23:36.68,Default,,0,0,0,,{\an8}主演\N查尔斯·丹斯 饰 维克多父亲
 Dialogue: 0,2:23:38.20,2:23:41.20,Default,,0,0,0,,{\an8}主演\N克里斯托弗·瓦尔兹 饰 赞助人哈兰德
-Dialogue: 0,2:23:42.04,2:23:47.05,Default,,0,0,0,,{\an8}蒙太奇字幕组 字幕制作\N双语合并/后期： novaeye 内容补充：小p
-Dialogue: 0,2:23:47.08,2:23:51.40,Default,,0,0,0,,{\an8}官方字幕\N翻译：涅伽达
+Dialogue: 0,2:23:41.64,2:23:44.55,Default,,0,0,0,,{\an8}官方字幕\N翻译：涅伽达
+Dialogue: 0,2:23:44.58,2:23:47.99,Default,,0,0,0,,{\an8}蒙太奇字幕组 字幕制作\N双语合并/后期： novaeye 内容补充：小p
+Dialogue: 0,2:23:48.02,2:23:51.57,Default,,0,0,0,,{\an8}本片官方字幕美中不足\N原创译制正在进行中\N可在Telegram和IRC交流群了解动态：MontageSubs
 Dialogue: 0,2:29:42.74,2:29:44.79,Default,,0,0,0,,{\an2\1c00CCCCCC&\fs14}蒙 太 奇 字 幕 组(MontageSubs)\N{\fs9}用爱发电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\blur0\shad0\bord0\fs9}\h\h{\r\1c00CCCCCC&\fs9}Powered by love
 Dialogue: 0,2:29:44.82,2:29:48.62,Default,,0,0,0,,{\an2}（网飞公司）
