@@ -116,11 +116,11 @@ Dialogue: 0,0:09:57.83,0:09:59.87,Default,,0,0,0,,没错 一切因他而起\N{\r
 Dialogue: 0,0:10:00.45,0:10:01.37,Default,,0,0,0,,我的父亲\N{\rEng}My father.
 Dialogue: 0,0:10:04.29,0:10:05.33,Default,,0,0,0,,还有我的母亲\N{\rEng}And my mother.
 Dialogue: 0,0:10:09.58,0:10:10.45,Default,,0,0,0,,维克多！\N{\rEng}Victor!
-Dialogue: 0,0:10:10.54,0:10:12.58,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（第一部分 维克多的故事）
+Dialogue: 0,0:10:10.54,0:10:13.53,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（第一部分 维克多的故事）
 Dialogue: 0,0:10:12.66,0:10:13.50,Default,,0,0,0,,维克多！\N{\rEng}Victor!
 Dialogue: 0,0:10:16.08,0:10:17.25,Default,,0,0,0,,维克多！\N{\rEng}Victor!
 Dialogue: 0,0:10:20.70,0:10:23.83,Default,,0,0,0,,快下来 你父亲来了\N{\rEng}Come down, your father is arriving.
-Dialogue: 0,0:10:24.79,0:10:27.75,Default,,0,0,0,,Maman? \N{\rEng}Maman?
+Dialogue: 0,0:10:24.79,0:10:27.75,Default,,0,0,0,,妈妈？\N{\rEng}Maman?
 Dialogue: 0,0:10:28.95,0:10:30.37,Default,,0,0,0,,母亲 我在这里\N{\rEng}I'm here, Mother.
 Dialogue: 0,0:10:33.91,0:10:35.12,Default,,0,0,0,,这里\N{\rEng}I'm here.
 Dialogue: 0,0:10:38.12,0:10:41.41,Default,,0,0,0,,我父亲是男爵 也是个杰出的外科医生\N{\rEng}My father was a baron and a preeminent surgeon.
@@ -147,8 +147,8 @@ Dialogue: 0,0:12:10.12,0:12:13.16,Default,,0,0,0,,用你的披风庇护我 然�
 Dialogue: 0,0:12:15.58,0:12:18.70,Default,,0,0,0,,我隔着墙听到他们争论不休\N{\rEng}I would hear them through the wall, arguing incessantly,
 Dialogue: 0,0:12:18.79,0:12:22.62,Default,,0,0,0,,对着彼此大吼大叫 话题关于财富和庄园 还有我\N{\rEng}yelling at each other about wealth, estate… and me.
 Dialogue: 0,0:12:23.79,0:12:26.33,Default,,0,0,0,,他们的争吵声让我万分恐惧\N{\rEng}Their voices filled me with fear.
-Dialogue: 0,0:12:30.95,0:12:32.08,Default,,0,0,0,,Maman?\N{\rEng}Maman?
-Dialogue: 0,0:12:34.04,0:12:35.20,Default,,0,0,0,,Maman?\N{\rEng}Maman?
+Dialogue: 0,0:12:30.95,0:12:32.08,Default,,0,0,0,,妈妈？\N{\rEng}Maman?
+Dialogue: 0,0:12:34.04,0:12:35.20,Default,,0,0,0,,妈妈？\N{\rEng}Maman?
 Dialogue: 0,0:12:45.75,0:12:48.20,Default,,0,0,0,,那个男人鄙视我们两个\N{\rEng}The man despised us both.
 Dialogue: 0,0:12:48.29,0:12:52.12,Default,,0,0,0,,讨厌我们乌黑的头发、深色的瞳孔\N{\rEng}Our raven black hair, our deep, dark eyes.
 Dialogue: 0,0:12:52.70,0:12:56.79,Default,,0,0,0,,就连我们喜好安静、不时紧张的性情\N{\rEng}Even our quiet, at times nervous disposition
@@ -189,10 +189,10 @@ Dialogue: 0,0:15:04.50,0:15:05.37,Default,,0,0,0,,一\N{\rEng}One…
 Dialogue: 0,0:15:07.20,0:15:08.70,Default,,0,0,0,,不可能\N{\rEng}That's impossible.
 Dialogue: 0,0:15:10.45,0:15:11.45,Default,,0,0,0,,我来洗牌\N{\rEng}I'll shuffle.
 Dialogue: 0,0:15:17.33,0:15:18.45,Default,,0,0,0,,母亲？\N{\rEng}Mother?
-Dialogue: 0,0:15:19.62,0:15:21.00,Default,,0,0,0,,妈妈?\N{\rEng}Maman?
+Dialogue: 0,0:15:19.62,0:15:21.00,Default,,0,0,0,,妈妈？\N{\rEng}Maman?
 Dialogue: 0,0:15:26.62,0:15:27.95,Default,,0,0,0,,父亲\N{\rEng}Father!
 Dialogue: 0,0:15:28.04,0:15:29.45,Default,,0,0,0,,父亲 母亲出事了\N{\rEng}Father. It's Mother.
-Dialogue: 0,0:15:36.00,0:15:37.70,Default,,0,0,0,,妈妈.\N{\rEng}Maman.
+Dialogue: 0,0:15:36.00,0:15:37.70,Default,,0,0,0,,妈妈\N{\rEng}Maman.
 Dialogue: 0,0:15:37.79,0:15:40.54,Default,,0,0,0,,准备好热水和干净的亚麻布 多拿一点 快\N{\rEng}I need hot water and clean linen. A lot of it.
 Dialogue: 0,0:15:40.62,0:15:41.45,Default,,0,0,0,,是 先生\N{\rEng}-Now. -Sir.
 Dialogue: 0,0:15:41.54,0:15:42.54,Default,,0,0,0,,-不 维克多 -妈妈？\N{\rEng}-No, Victor! -Mother?
@@ -1566,8 +1566,28 @@ Dialogue: 0,2:20:38.79,2:20:40.08,Default,,0,0,0,,您要亲自宣布吗？\N{\rE
 Dialogue: 0,2:20:40.70,2:20:41.54,Default,,0,0,0,,大家听好！\N{\rEng}Men!
 Dialogue: 0,2:20:42.95,2:20:44.12,Default,,0,0,0,,我们开船回家\N{\rEng}We're sailing home!
 Dialogue: 0,2:20:44.83,2:20:45.91,Default,,0,0,0,,我们回家了\N{\rEng}We're sailing home!
-Dialogue: 0,2:21:38.16,2:21:43.70,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（“心会破碎 但破碎后依然跳动” 拜伦勋爵）
-Dialogue: 0,2:21:51.54,2:21:52.54,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（基于玛丽·雪莱）
-Dialogue: 0,2:21:52.62,2:21:55.12,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（所著小说《科学怪人》改编）
-Dialogue: 0,2:22:56.25,2:22:59.87,Default,,0,0,0,,{\pos(192,160)\fs32\b1\1c00CCCCCC\shad0\bord0}《科学怪人》
-Dialogue: 0,2:29:37.33,2:29:42.33,Default,,0,0,0,,{\an8\fs12\shad1\bord1\1c00CCCCCC\b1}字幕翻译： 涅伽达
+Dialogue: 0,2:21:38.16,2:21:43.70,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}“心会破碎 但破碎后依然跳动” 拜伦勋爵
+Dialogue: 0,2:21:47.03,2:21:50.35,Default,,0,0,0,,{\an8}影片编剧兼导演\N吉列尔莫·德尔托罗
+Dialogue: 0,2:21:51.54,2:21:54.94,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}基于玛丽·雪莱所著小说《科学怪人》改编
+Dialogue: 0,2:21:56.41,2:21:59.41,Default,,0,0,0,,{\an8}制片人\N吉列尔莫·德尔托罗\NJ·迈尔斯·戴尔\N斯科特·斯图伯 
+Dialogue: 0,2:22:01.02,2:22:04.08,Default,,0,0,0,,{\an8}摄影\N达恩·劳斯特森
+Dialogue: 0,2:22:10.44,2:22:13.21,Default,,0,0,0,,{\an8}剪辑\N伊万·希夫
+Dialogue: 0,2:22:19.46,2:22:22.75,Default,,0,0,0,,{\an8}配乐\N亚历山大·德斯普拉
+Dialogue: 0,2:22:38.09,2:22:41.20,Default,,0,0,0,,{\an8}出品公司\N网飞公司
+Dialogue: 0,2:22:42.58,2:22:45.68,Default,,0,0,0,,{\an8}制作公司\N双重挑战公司
+Dialogue: 0,2:22:47.38,2:22:50.40,Default,,0,0,0,,{\an8}制作公司\N德米洛影业\N蓝草七号影业
+Dialogue: 0,2:22:52.23,2:22:55.12,Default,,0,0,0,,{\an8}吉列尔莫·德尔托罗\N导演作品
+Dialogue: 0,2:22:56.25,2:22:59.74,Default,,0,0,0,,{\pos(192,200)\fs32\b1\1c00CCCCCC\shad0\bord0}《科学怪人》
+Dialogue: 0,2:23:01.20,2:23:04.19,Default,,0,0,0,,{\an8}主演\N奥斯卡·伊萨克 饰 维克多
+Dialogue: 0,2:23:05.73,2:23:09.04,Default,,0,0,0,,{\an8}主演\N雅各布·艾洛蒂 饰 怪物
+Dialogue: 0,2:23:10.51,2:23:13.56,Default,,0,0,0,,{\an8}主演\N米娅·高斯 饰 伊丽莎白
+Dialogue: 0,2:23:15.01,2:23:18.17,Default,,0,0,0,,{\an8}主演\N费利克斯·卡默雷尔 饰 维克多弟弟威廉
+Dialogue: 0,2:23:19.70,2:23:22.88,Default,,0,0,0,,{\an8}主演\N大卫·布拉德利 饰 盲人
+Dialogue: 0,2:23:24.28,2:23:27.39,Default,,0,0,0,,{\an8}主演\N拉尔斯·米科尔森 饰 船长安德森
+Dialogue: 0,2:23:28.94,2:23:32.07,Default,,0,0,0,,{\an8}主演\N克利斯汀·康佛瑞 饰 幼年维克多
+Dialogue: 0,2:23:33.49,2:23:36.68,Default,,0,0,0,,{\an8}主演\N查尔斯·丹斯 饰 维克多父亲
+Dialogue: 0,2:23:38.20,2:23:41.20,Default,,0,0,0,,{\an8}主演\N克里斯托弗·瓦尔兹 饰 赞助人哈兰德
+Dialogue: 0,2:23:42.04,2:23:47.05,Default,,0,0,0,,{\an8}蒙太奇字幕组 字幕制作\N双语合并/后期： novaeye 内容补充：小p
+Dialogue: 0,2:23:47.08,2:23:51.40,Default,,0,0,0,,{\an8}官方字幕\N翻译：涅伽达
+Dialogue: 0,2:29:42.74,2:29:44.79,Default,,0,0,0,,{\an2\1c00CCCCCC&\fs14}蒙 太 奇 字 幕 组(MontageSubs)\N{\fs9}用爱发电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\blur0\shad0\bord0\fs9}\h\h{\r\1c00CCCCCC&\fs9}Powered by love
+Dialogue: 0,2:29:44.82,2:29:48.62,Default,,0,0,0,,{\an2}（网飞公司）
