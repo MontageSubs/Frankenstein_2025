@@ -42,27 +42,27 @@
 
 
 <h1 id="字幕下载">⬇️ 字幕下载</h1>
-<!--
+
 <table>
   <tr>
     <th>字幕库</th><th>SubHD</th><th>射手网(伪)</th><th>OpenSubtitles ass格式</th><th>OpenSubtitles srt 格式</th>
   </tr>
   <tr>
-    <td><a href="https://zimuku.org/detail/"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
-    <td><a href="https://subhd.tv/a/"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
-    <td><a href="https://2.assrt.net/xml/sub/"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
-    <td><a href="https://www.opensubtitles.org/en/subtitles/"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
-    <td><a href="https://www.opensubtitles.org/en/subtitles/"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
+    <td><a href="https://zimuku.org/detail/221762.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
+    <td><a href="https://subhd.tv/a/xDnXYo"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
+    <td><a href="https://2.assrt.net/xml/sub/668/668206.xml"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13368130/frankenstein-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13368132/frankenstein-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
   </tr>
-</table>-->
+</table>
 
 <h2 id="字幕进度">⏳ 字幕进度</h2>
 
-- [ ] 时间轴
-- [ ] 翻译 (90%)
-- [ ] 校对
-- [ ] 特效
-- [ ] 发布
+- [X] 时间轴
+- [X] 翻译
+- [X] 校对
+- [X] 特效
+- [X] 发布
 
 
 <details>
