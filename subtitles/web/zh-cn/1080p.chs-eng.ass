@@ -15,10 +15,10 @@ Style: Eng,Microsoft YaHei,9,&H00FFFFFF,&HF0000000,&H00202020,&H32000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.51,0:00:08.87,Default,,0,0,0,,{\an2}（网飞公司）
-Dialogue: 0,0:00:13.29,0:00:17.66,Default,,0,0,0,,{\an8}制作公司\N双重挑战公司
-Dialogue: 0,0:00:20.20,0:00:25.25,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（序幕）
-Dialogue: 0,0:00:32.25,0:00:37.75,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（极北之地 1857年）
+Dialogue: 0,0:00:07.51,0:00:08.87,Default,,0,0,0,,{\pos(192,250)\fs26\1c&H0F1EC1&\shad1\bord1\b1}网飞公司
+Dialogue: 0,0:00:13.29,0:00:17.66,Default,,0,0,0,,{\pos(192,230)\fs26\1c&H446DA3&\fsp2\shad1\bord1\b1\fad(500,500)}{\fs16}制作公司\N{\fs26}双重挑战公司
+Dialogue: 0,0:00:20.20,0:00:25.25,Default,,0,0,0,,{\pos(192,200)\fs26\1c&H446DA3&\fsp2\shad1\bord1\b1\fad(500,500)}序\h\h幕
+Dialogue: 0,0:00:32.25,0:00:37.75,Default,,0,0,0,,{\pos(192,260)\fsp4\1c00222222\shad0\bord0\b1\fad(1000,500)}极北之地 1857年
 Dialogue: 0,0:00:54.70,0:00:55.70,Default,,0,0,0,,船长！\N{\rEng}Captain!
 Dialogue: 0,0:01:01.83,0:01:02.83,Default,,0,0,0,,船长！\N{\rEng}Captain!
 Dialogue: 0,0:01:04.29,0:01:05.50,Default,,0,0,0,,能聊聊吗？\N{\rEng}Can we talk?
@@ -116,7 +116,7 @@ Dialogue: 0,0:09:57.83,0:09:59.87,Default,,0,0,0,,没错 一切因他而起\N{\r
 Dialogue: 0,0:10:00.45,0:10:01.37,Default,,0,0,0,,我的父亲\N{\rEng}My father.
 Dialogue: 0,0:10:04.29,0:10:05.33,Default,,0,0,0,,还有我的母亲\N{\rEng}And my mother.
 Dialogue: 0,0:10:09.58,0:10:10.45,Default,,0,0,0,,维克多！\N{\rEng}Victor!
-Dialogue: 0,0:10:10.54,0:10:13.53,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（第一部分 维克多的故事）
+Dialogue: 0,0:10:09.59,0:10:13.53,Default,,0,0,0,,{\pos(192,230)\fs26\shad1\bord1\b1\fsp2\fad(0,300)}{\fs16\1c&H87BCE6&}第一部分\N{\fs26\1c&H446DA3&}维克多的故事
 Dialogue: 0,0:10:12.66,0:10:13.50,Default,,0,0,0,,维克多！\N{\rEng}Victor!
 Dialogue: 0,0:10:16.08,0:10:17.25,Default,,0,0,0,,维克多！\N{\rEng}Victor!
 Dialogue: 0,0:10:20.70,0:10:23.83,Default,,0,0,0,,快下来 你父亲来了\N{\rEng}Come down, your father is arriving.
@@ -258,8 +258,8 @@ Dialogue: 0,0:20:49.66,0:20:51.91,Default,,0,0,0,,我去了伦敦 然后又去�
 Dialogue: 0,0:20:52.83,0:20:56.62,Default,,0,0,0,,在那里 我花了数十年时间\N{\rEng}And there, for decades, I tried to…
 Dialogue: 0,0:20:58.87,0:21:02.12,Default,,0,0,0,,尝试为狭隘的学术界拓宽边界\N{\rEng}expand the narrow limits of academia.
 Dialogue: 0,0:21:04.08,0:21:05.00,Default,,0,0,0,,生命\N{\rEng}Life.
+Dialogue: 0,0:21:06.38,0:21:12.70,Default,,0,0,0,,{\pos(192,200)\fsp3\fs16\shad1\bord1\b1\1c&H87BCE6&\fad(1000,1000)}（皇家医学院纪律法庭 1855年）
 Dialogue: 0,0:21:06.62,0:21:10.50,Default,,0,0,0,,这就是生命 先生们\N{\rEng}This… is life, gentlemen.
-Dialogue: 0,0:21:10.58,0:21:12.70,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（皇家医学院纪律法庭 1855年）
 Dialogue: 0,0:21:12.79,0:21:13.95,Default,,0,0,0,,我们出生了\N{\rEng}We are born.
 Dialogue: 0,0:21:15.58,0:21:18.41,Default,,0,0,0,,刚上去没多久 就掉下来了\N{\rEng}And no sooner do we rise, we fall.
 Dialogue: 0,0:21:19.41,0:21:20.50,Default,,0,0,0,,死了\N{\rEng}Death.
@@ -1102,7 +1102,7 @@ Dialogue: 0,1:28:02.87,1:28:04.04,Default,,0,0,0,,来吧 野兽\N{\rEng}Go on, b
 Dialogue: 0,1:28:04.12,1:28:07.58,Default,,0,0,0,,把我俩都杀了 证明造你的人说的都是真的\N{\rEng}Kill us both. Confirm your maker's tale.
 Dialogue: 0,1:28:13.50,1:28:18.04,Default,,0,0,0,,造我的人 说了他的故事\N{\rEng}My maker… told his tale.
 Dialogue: 0,1:28:23.87,1:28:26.66,Default,,0,0,0,,那我也来说说我的\N{\rEng}Then I will tell you mine.
-Dialogue: 0,1:28:30.16,1:28:33.08,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}（第二部分 那头怪物的故事）
+Dialogue: 0,1:28:30.16,1:28:33.08,Default,,0,0,0,,{\pos(192,230)\fs26\shad1\bord1\b1\fsp2\fad(0,300)}{\fs16\1c&H87BCE6&}第二部分\N{\fs26\1c&H446DA3&}那头怪物的故事
 Dialogue: 0,1:28:42.79,1:28:48.41,Default,,0,0,0,,维克多！\N{\rEng}Victor!
 Dialogue: 0,1:28:48.50,1:28:52.83,Default,,0,0,0,,我反复呼唤你的名字 终于发现这里只有我\N{\rEng}I called your name and understood I was alone.
 Dialogue: 0,1:32:52.87,1:32:54.20,Default,,0,0,0,,-那是什么？ -开枪！\N{\rEng}-What is that? -Shoot at it!
@@ -1566,28 +1566,28 @@ Dialogue: 0,2:20:38.79,2:20:40.08,Default,,0,0,0,,您要亲自宣布吗？\N{\rE
 Dialogue: 0,2:20:40.70,2:20:41.54,Default,,0,0,0,,大家听好！\N{\rEng}Men!
 Dialogue: 0,2:20:42.95,2:20:44.12,Default,,0,0,0,,我们开船回家\N{\rEng}We're sailing home!
 Dialogue: 0,2:20:44.83,2:20:45.91,Default,,0,0,0,,我们回家了\N{\rEng}We're sailing home!
-Dialogue: 0,2:21:38.16,2:21:43.70,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}“心会破碎 但破碎后依然跳动” 拜伦勋爵
-Dialogue: 0,2:21:47.03,2:21:50.35,Default,,0,0,0,,{\an8}影片编剧兼导演\N吉列尔莫·德尔托罗
-Dialogue: 0,2:21:51.54,2:21:54.94,Default,,0,0,0,,{\an8\fs16\shad1\bord1\1c00CCCCCC\b1}基于玛丽·雪莱所著小说《科学怪人》改编
-Dialogue: 0,2:21:56.41,2:21:59.41,Default,,0,0,0,,{\an8}制片人\N吉列尔莫·德尔托罗\NJ·迈尔斯·戴尔\N斯科特·斯图伯 
-Dialogue: 0,2:22:01.02,2:22:04.08,Default,,0,0,0,,{\an8}摄影\N达恩·劳斯特森
-Dialogue: 0,2:22:10.44,2:22:13.21,Default,,0,0,0,,{\an8}剪辑\N伊万·希夫
-Dialogue: 0,2:22:19.46,2:22:22.75,Default,,0,0,0,,{\an8}配乐\N亚历山大·德斯普拉
-Dialogue: 0,2:22:38.09,2:22:41.20,Default,,0,0,0,,{\an8}出品公司\N网飞公司
-Dialogue: 0,2:22:42.58,2:22:45.68,Default,,0,0,0,,{\an8}制作公司\N双重挑战公司
-Dialogue: 0,2:22:47.38,2:22:50.40,Default,,0,0,0,,{\an8}制作公司\N德米洛影业\N蓝草七号影业
-Dialogue: 0,2:22:52.23,2:22:55.12,Default,,0,0,0,,{\an8}吉列尔莫·德尔托罗\N导演作品
-Dialogue: 0,2:22:56.25,2:22:59.74,Default,,0,0,0,,{\pos(192,200)\fs32\b1\1c00CCCCCC\shad0\bord0}《科学怪人》
-Dialogue: 0,2:23:01.20,2:23:04.19,Default,,0,0,0,,{\an8}主演\N奥斯卡·伊萨克 饰 维克多
-Dialogue: 0,2:23:05.73,2:23:09.04,Default,,0,0,0,,{\an8}主演\N雅各布·艾洛蒂 饰 怪物
-Dialogue: 0,2:23:10.51,2:23:13.56,Default,,0,0,0,,{\an8}主演\N米娅·高斯 饰 伊丽莎白
-Dialogue: 0,2:23:15.01,2:23:18.17,Default,,0,0,0,,{\an8}主演\N费利克斯·卡默雷尔 饰 维克多弟弟威廉
-Dialogue: 0,2:23:19.70,2:23:22.88,Default,,0,0,0,,{\an8}主演\N大卫·布拉德利 饰 盲人
-Dialogue: 0,2:23:24.28,2:23:27.39,Default,,0,0,0,,{\an8}主演\N拉尔斯·米科尔森 饰 船长安德森
-Dialogue: 0,2:23:28.94,2:23:32.07,Default,,0,0,0,,{\an8}主演\N克利斯汀·康佛瑞 饰 幼年维克多
-Dialogue: 0,2:23:33.49,2:23:36.68,Default,,0,0,0,,{\an8}主演\N查尔斯·丹斯 饰 维克多父亲
-Dialogue: 0,2:23:38.20,2:23:41.20,Default,,0,0,0,,{\an8}主演\N克里斯托弗·瓦尔兹 饰 赞助人哈兰德
-Dialogue: 0,2:23:41.52,2:23:44.43,Default,,0,0,0,,{\an8}官方字幕\N翻译：涅伽达
-Dialogue: 0,2:23:44.45,2:23:47.86,Default,,0,0,0,,{\an8}蒙太奇字幕组 & 远鉴字幕组 联合出品\N双语合并/后期： novaeye 内容补充：小p
-Dialogue: 0,2:23:47.89,2:23:51.44,Default,,0,0,0,,{\an8}本片官方字幕美中不足\N原创译制正在进行中\N可在Telegram和IRC群了解动态：MontageSubs
-Dialogue: 0,2:29:44.82,2:29:48.62,Default,,0,0,0,,{\an2}（网飞公司）
+Dialogue: 0,2:21:38.16,2:21:43.70,Default,,0,0,0,,{\pos(192,230)\fs18\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}“心会破碎 但破碎后依然跳动”\N{\i1\fsp4}-拜伦勋爵
+Dialogue: 0,2:21:47.03,2:21:50.35,Default,,0,0,0,,{\pos(192,230)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}影片编剧兼导演\N{\fs24\i1\fsp4}吉列尔莫·德尔托罗
+Dialogue: 0,2:21:51.54,2:21:54.94,Default,,0,0,0,,{\pos(192,270)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}基\h\h\h于\N{\fs22\i1\fsp2}玛丽·雪莱所著\N小说《科学怪人》改编
+Dialogue: 0,2:21:56.41,2:21:59.41,Default,,0,0,0,,{\pos(192,280)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}制\h\h片\h\h人\N{\fs20\i1\fsp2}吉列尔莫·德尔托罗\NJ·迈尔斯·戴尔\N斯科特·斯图伯 
+Dialogue: 0,2:22:01.02,2:22:04.08,Default,,0,0,0,,{\pos(192,200)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}摄\h\h影\N{\fs20\i1\fsp2}达恩·劳斯特森
+Dialogue: 0,2:22:10.44,2:22:13.21,Default,,0,0,0,,{\pos(192,200)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}剪\h\h辑\N{\fs20\i1\fsp2}伊万·希夫
+Dialogue: 0,2:22:19.46,2:22:22.75,Default,,0,0,0,,{\pos(192,200)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}配\h\h乐\N{\fs20\i1\fsp2}亚历山大·德斯普拉
+Dialogue: 0,2:22:38.09,2:22:41.20,Default,,0,0,0,,{\pos(192,210)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}出品公司\N{\fs20\i1\fsp2}网飞公司
+Dialogue: 0,2:22:42.58,2:22:45.68,Default,,0,0,0,,{\pos(192,210)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}制作公司\N{\fs20\i1\fsp2}双重挑战公司
+Dialogue: 0,2:22:47.38,2:22:50.40,Default,,0,0,0,,{\pos(192,210)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}制作公司\N{\fs20\i1\fsp2}德米洛影业 & 蓝草七号影业
+Dialogue: 0,2:22:52.23,2:22:55.12,Default,,0,0,0,,{\pos(192,210)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}{\fs24\i1}吉列尔莫·德尔托罗\N{\fs14\i0\fsp0}导演作品
+Dialogue: 0,2:22:56.25,2:22:59.74,Default,,0,0,0,,{\pos(192,190)\fs26\shad1\bord1\b1\fsp4\fad(500,500)}{\1c&H446DA3&}《科学怪人》
+Dialogue: 0,2:23:01.20,2:23:04.19,Default,,0,0,0,,{\pos(192,190)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}主演\N{\fs20}奥斯卡·伊萨克{\fs12} 饰 {\fs20}维克多
+Dialogue: 0,2:23:05.73,2:23:09.04,Default,,0,0,0,,{\pos(192,190)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}主演\N{\fs20}雅各布·艾洛蒂{\fs12} 饰 {\fs20}怪物
+Dialogue: 0,2:23:10.51,2:23:13.56,Default,,0,0,0,,{\pos(192,190)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}主演\N{\fs20}米娅·高斯{\fs12} 饰 {\fs20}伊丽莎白
+Dialogue: 0,2:23:15.01,2:23:18.17,Default,,0,0,0,,{\pos(192,190)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}主演\N{\fs20}费利克斯·卡默雷尔{\fs12} 饰 {\fs20}维克多弟弟威廉
+Dialogue: 0,2:23:19.70,2:23:22.88,Default,,0,0,0,,{\pos(192,190)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}主演\N{\fs20}大卫·布拉德利 {\fs12}饰 {\fs20}盲人
+Dialogue: 0,2:23:24.28,2:23:27.39,Default,,0,0,0,,{\pos(192,190)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}主演\N{\fs20}拉尔斯·米科尔森{\fs12} 饰 {\fs20}船长安德森
+Dialogue: 0,2:23:28.94,2:23:32.07,Default,,0,0,0,,{\pos(192,190)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}主演\N{\fs20}克利斯汀·康佛瑞{\fs12} 饰 {\fs20}幼年维克多
+Dialogue: 0,2:23:33.49,2:23:36.68,Default,,0,0,0,,{\pos(192,190)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}主演\N{\fs20}查尔斯·丹斯{\fs12} 饰 {\fs20}维克多父亲
+Dialogue: 0,2:23:38.20,2:23:41.20,Default,,0,0,0,,{\pos(192,190)\fs14\shad1\bord1\b1\fsp2\fad(500,500)}{\1c&H446DA3&}主演\N{\fs20}克里斯托弗·瓦尔兹{\fs12} 饰 {\fs20}赞助人哈兰德
+Dialogue: 0,2:23:41.52,2:23:44.43,Default,,0,0,0,,{\an8\fs16\shad1\bord1\b1}{\1c&H446DA3&}官方字幕翻译：涅伽达
+Dialogue: 0,2:23:44.45,2:23:47.86,Default,,0,0,0,,{\an8\fs16\shad1\bord1\b1}{\1c&H446DA3&}蒙太奇字幕组 & 远鉴字幕组 联合出品\N{\fs10}双语合并 & 后期：novaeye\h\h内容补充：小p
+Dialogue: 0,2:23:47.89,2:23:51.44,Default,,0,0,0,,{\an8\fs16\shad1\bord1\b1}{\1c&H446DA3&}本片官方字幕质量不佳\h\h原创译制正在进行中\N{\fs10}可在Telegram和IRC群了解动态：MontageSubs
+Dialogue: 0,2:29:44.82,2:29:48.62,Default,,0,0,0,,{\move(192,240,192,218)\fs34\1c&H0F1EC1&\t(\fs20)}网飞公司
